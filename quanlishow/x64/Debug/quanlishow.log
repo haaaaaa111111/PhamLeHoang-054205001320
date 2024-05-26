@@ -1,0 +1,13 @@
+﻿  Main.cpp
+E:\vscode\PhamLeHoang\quanlishow\Main.cpp(54,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\vscode\PhamLeHoang\quanlishow\Main.cpp(135,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\vscode\PhamLeHoang\quanlishow\Main.cpp(157,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\vscode\PhamLeHoang\quanlishow\Main.cpp(157,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Oto.cpp
+E:\vscode\PhamLeHoang\quanlishow\Oto.cpp(4,70): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Otokhach.cpp
+E:\vscode\PhamLeHoang\quanlishow\Otokhach.cpp(51,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Ototai.cpp
+E:\vscode\PhamLeHoang\quanlishow\Ototai.cpp(24,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  quanlishow.vcxproj -> E:\vscode\PhamLeHoang\x64\Debug\quanlishow.exe
